@@ -1,0 +1,37 @@
+body {
+  background-color:#5b5b5b;
+  color:#d8c292;
+  margin-left: 100px;
+}
+
+.fit-picture {
+  border-style:double;
+  border-color:#b67171;
+  border-width:thick;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+  font-weight:bolder;
+}
+
+h2 {
+  color:#c19065;
+}
+
+table {
+  text-align:center;
+  border-style:double;
+  border-color:#b67171;
+  border-width:thick;
+}
+
+.footer {
+  text-align: center;
+  font-size:small;
+  color:#c19065;
+  margin-top:50px;
+}
